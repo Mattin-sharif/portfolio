@@ -116,18 +116,17 @@ Data Analyst with a Master's in Business Analytics from Queen's University Belfa
 - Contributed to a 10% increase in conversion rates through cohort analysis
 
 ## Certifications
-- Google Data Analytics (2023)
-- SQL, Data reporting and Visualization (LinkedIn, 2023)
+- Google Data Analytics (https://www.coursera.org/account/accomplishments/professional-cert/XBBH6TQXZ89B?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- ![image](https://github.com/user-attachments/assets/41dff2cf-6264-4631-b925-381184a1d0f2)
+- SQL, Data reporting and Visualization (LinkedIn, 2023) (https://www.linkedin.com/learning/certificates/7172225414c8362ab767335e660d3f9969667f7ffb7f058886f275d93c3f2b49)
+  ![image](https://github.com/user-attachments/assets/080277e2-7f77-4d6c-916e-9dc3257a4973)
 - Power BI - PL-300 license (https://learn.microsoft.com/en-us/users/muhammadmattinsharif-8770/credentials/b54694c7daba5eed?ref=https%3A%2F%2Fwww.google.com%2F)
  ![image](https://github.com/user-attachments/assets/eaaa0e79-3fea-4cbd-8bcc-3dc27334d7ea)
+- Excel(2019) Associate license (https://www.credly.com/badges/12554270-c317-4461-bccf-36a2672c027d)
+  ![image](https://github.com/user-attachments/assets/281fb23e-c1c1-4608-ad78-50c88bc10e4c)
 - Gold badge - SQL (Hackerrank, 2023)
 - Design Thinking
-- Google Data Analytics (2023)
-- SQL, Data reporting and Visualization (LinkedIn, 2023)
-- Gold badge - SQL (Hackerrank, 2023)
-- Design Thinking
-
-
+  
 
 ## Contact
 - Email: msharif06@qub.ac.uk
