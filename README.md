@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Mattin 👋 👩🏾‍💻
 
 ## About Me
-Data Analyst with a Master's in Business Analytics from Queen's University Belfast and graduted from EY data analysis academy. Skilled in SQL, R, Python, Power-BI and Tableau, with experience in consulting, technology, and marketing. Passionate about leveraging data to drive business decisions and enhance customer experiences.
+Data Analyst with a Master's in Business Analytics from Queen's University Belfast and graduated from EY Data Analytics Academy. Skilled in SQL, R, Python, Power-BI and Tableau, with experience in consulting, technology, and marketing. Passionate about leveraging data to drive business decisions and enhance customer experiences.
 
 ## Education
 - EY Data Analytics Academy (11/2024 - 01/2025)
