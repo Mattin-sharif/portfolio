@@ -120,6 +120,12 @@ Data Analyst with a Master's in Business Analytics from Queen's University Belfa
 - SQL, Data reporting and Visualization (LinkedIn, 2023)
 - Gold badge - SQL (Hackerrank, 2023)
 - Design Thinking
+- Google Data Analytics (2023)
+- SQL, Data reporting and Visualization (LinkedIn, 2023)
+- Gold badge - SQL (Hackerrank, 2023)
+- Design Thinking
+![image](https://github.com/user-attachments/assets/eaaa0e79-3fea-4cbd-8bcc-3dc27334d7ea)
+
 
 ## Contact
 - Email: msharif06@qub.ac.uk
