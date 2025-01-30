@@ -118,13 +118,15 @@ Data Analyst with a Master's in Business Analytics from Queen's University Belfa
 ## Certifications
 - Google Data Analytics (2023)
 - SQL, Data reporting and Visualization (LinkedIn, 2023)
+- Power BI - PL-300 license (https://learn.microsoft.com/en-us/users/muhammadmattinsharif-8770/credentials/b54694c7daba5eed?ref=https%3A%2F%2Fwww.google.com%2F)
+ ![image](https://github.com/user-attachments/assets/eaaa0e79-3fea-4cbd-8bcc-3dc27334d7ea)
 - Gold badge - SQL (Hackerrank, 2023)
 - Design Thinking
 - Google Data Analytics (2023)
 - SQL, Data reporting and Visualization (LinkedIn, 2023)
 - Gold badge - SQL (Hackerrank, 2023)
 - Design Thinking
-![image](https://github.com/user-attachments/assets/eaaa0e79-3fea-4cbd-8bcc-3dc27334d7ea)
+
 
 
 ## Contact
